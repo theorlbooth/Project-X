@@ -25,13 +25,16 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
     "bulma": "^0.9.1",
+    "d3": "^6.3.1",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.31",
     "react": "^16.14.0",
+    "react-charts": "^2.0.0-beta.7",
     "react-dom": "^16.13.1",
     "react-live-clock": "^5.0.11",
-    "react-moment": "^1.0.0"
+    "react-moment": "^1.0.0",
+    "recharts": "^2.0.3"
   }
 }
